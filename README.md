@@ -21,7 +21,7 @@ The system predicts whether a person is likely to have heart disease based on me
 -scalar.pkl
 -heart.csv
 # **project link** #
-https://caloriesburnedproject-wkj6senu38gagqblkv87ro.streamlit.app/
+https://caloriesburnedproject-lomyj3gacl5sruymh9an8w.streamlit.app/
 
 #  Author  
 Nandani Gautam
